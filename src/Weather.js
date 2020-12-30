@@ -23,7 +23,7 @@ export default function Weather() {
             <ul>
               <li id="date">{weatherData.date}</li>
               <li id="description">{weatherData.description}</li>
-               <img src="https://img.icons8.com/color/48/000000/partly-cloudy-day.png"/>
+               <img alt="" src="https://img.icons8.com/color/48/000000/partly-cloudy-day.png"/>
     <li id="temperature">{weatherData.temperature}</li>
             </ul>
             <div class="col-6">
