@@ -35,7 +35,7 @@ export default function Forecast(){
 <div class="col-2">
     <div class="days-of-the-week">Fri</div>
     < div class="degree">57/35</div>
-   <img src="https://img.icons8.com/color/48/000000/summer--v1.png"/>
+   <img alt="" src="https://img.icons8.com/color/48/000000/summer--v1.png"/>
 </div>
 <div class= "col-2">
     <div class="days-of-the-week">Sat</div>
