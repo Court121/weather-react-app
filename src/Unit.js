@@ -12,13 +12,7 @@ import "./App.css";
             <div class="float-left">
               <span class="temperature" id="temperature"></span>
               <span class="units">
-                <a href="#" id="celsius-link">
-                  ℃
-                </a>
-                /
-                <a href="#" id="fahrenheit-link">
-                  ºF
-                </a>
+                 ℃
               </span>
             </div>
           </div>
