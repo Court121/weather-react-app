@@ -15,8 +15,8 @@ export default function Weather() {
   };
 
   return (
-    <div class="container weather-app">
-      <div className="Weather">
+    <div className="Weather">
+        <div class="container weather-app">
         <div class="row">
           <div class="col-5">
             <h1 id="city">{weatherData.city}</h1>

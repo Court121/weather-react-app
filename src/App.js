@@ -6,7 +6,7 @@ import Forecast from './Forecast';
 function App() {
   return (
     <div className="App">
-<Search />
+        <Search />
         < Weather />
         < Unit />
         < Forecast/>
